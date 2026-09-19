@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "colabfold-legacy-kernels"
-version = "0.2.0"
+version = "0.3.0.dev0"
 description = "Prebuilt pre-Ampere (sm_70 / sm_75) CUDA kernels for ColabFold."
 readme = "README.md"
 requires-python = ">=3.8"
